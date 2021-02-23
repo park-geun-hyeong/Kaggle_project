@@ -1,3 +1,3 @@
 # Kaggle_project
 
-hello~ here is my kaggle project repository
+## Hello!! Here is my kaggle project repository
