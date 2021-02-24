@@ -20,3 +20,5 @@ https://www.kaggle.com/c/word2vec-nlp-tutorial</p>
 <br><h3>Classification</h3>
 <p>1. Titanic - Machine Learning from Disaster<br>
 https://www.kaggle.com/c/titanic</p>
+<p>2. Pima Indians Diabetes Database<br>
+https://www.kaggle.com/uciml/pima-indians-diabetes-database</p>
