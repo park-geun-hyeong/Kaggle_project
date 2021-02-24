@@ -14,5 +14,9 @@ https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition</p>
 https://www.kaggle.com/datamunge/sign-language-mnist</p>
 
 <br><h3>NLP Folder</h3>
-<p>1. Sentiment Analysis on Movie Reviews<br>
-https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews</p>
+<p>1. Bag of Words Meets Bags of Popcorn<br>
+https://www.kaggle.com/c/word2vec-nlp-tutorial</p>
+
+<h3>Classification</h3>
+<p>1. Titanic - Machine Learning from Disaster<br>
+https://www.kaggle.com/c/titanic</p>
