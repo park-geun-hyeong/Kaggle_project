@@ -1,3 +1,3 @@
 # Kaggle_project
 
-## Hello!! Here is my kaggle project repository
+## Kaggle contest를 진행하며 제출하였던 코드들 모음
