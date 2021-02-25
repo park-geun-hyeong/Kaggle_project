@@ -16,6 +16,9 @@ https://www.kaggle.com/datamunge/sign-language-mnist</p>
 <br><h3>NLP Folder</h3>
 <p>1. Bag of Words Meets Bags of Popcorn<br>
 https://www.kaggle.com/c/word2vec-nlp-tutorial</p>
+p>2. Natural Language Processing with Disaster Tweets<br>
+https://www.kaggle.com/c/nlp-getting-started</p>
+
 
 <br><h3>Classification</h3>
 <p>1. Titanic - Machine Learning from Disaster<br>
