@@ -16,6 +16,10 @@ https://www.kaggle.com/datamunge/sign-language-mnist</p>
 <p>4. Global_Wheat_Detection<br>
 https://www.kaggle.com/c/global-wheat-detection/overview</p>
 
+<p>5. Cassava-leaf-disease-classification<br>
+https://www.kaggle.com/c/cassava-leaf-disease-classification</p>
+
+
 <br><h3>NLP Folder</h3>
 <p>1. Bag of Words Meets Bags of Popcorn<br>
 https://www.kaggle.com/c/word2vec-nlp-tutorial</p>
